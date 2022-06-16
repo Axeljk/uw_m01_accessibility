@@ -14,7 +14,7 @@ Images were optimized for smaller file sizes. They were also shrunk to the sizes
 
 ## Link to Pages
 
-[View with GitHub Pages](https://axeljk.github.io/uw_m01_accessibility/)
+[View with GitHub Pages](https://axeljk.github.io/uw_m01_accessibility/develop/index-min.html)
 
 ## Author
 
