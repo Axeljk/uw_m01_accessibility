@@ -2,7 +2,7 @@
 
 ## Page Speed Results
 
-![A page speed rating of 100.](page-speed.jpg)
+![A page speed rating of 100.](/page_speed.jpg)
 
 ## Challenges in This Course
 
