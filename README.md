@@ -2,7 +2,7 @@
 
 ## Description
 
-Refactors code for accessibility including proper title, alt text for images, and replacing <div> with appropriate semantic tags. The stylesheet was also refactored to remove duplicate code and organized by area of page.
+Refactors code for accessibility including proper title, alt text for images, and replacing \<div\> with appropriate semantic tags. The stylesheet was also refactored to remove duplicate code and organized by area of page.
 
 ![Screenshot of image.](/screenshot.jpg)
 
