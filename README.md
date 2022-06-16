@@ -1,5 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## Page Speed Results
+
+![A page speed rating of 100.](page-speed.jpg)
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
